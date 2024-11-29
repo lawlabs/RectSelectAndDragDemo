@@ -24,7 +24,10 @@ This project demonstrates a simple SwiftUI-based application for selecting and m
 
 
 ### Drag-and-Drop
-[Place a screenshot here showing selected squares being dragged to a new position with the drag operation in progress.]
+
+https://github.com/user-attachments/assets/04fb861b-2b64-46bb-afac-224776f9d2c1
+
+
 
 ## Code Overview
 - **`ContentView.swift`**: Contains all logic for selection and manipulation.
