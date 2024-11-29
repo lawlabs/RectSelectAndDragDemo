@@ -15,12 +15,13 @@ This project demonstrates a simple SwiftUI-based application for selecting and m
 
 ## Demo Screenshots
 ### Initial State
-[Place a screenshot here showing the grid of blue squares in the green area before any interaction.]
+
 <img width="973" alt="image" src="https://github.com/user-attachments/assets/434339ff-75b4-426b-adf3-2d472d1e8b3e">
 
-
 ### Rectangle Selection
-[Place a screenshot here showing the rectangle selection process with the rectangle partially drawn and some squares highlighted in red.]
+
+<img width="973" alt="Снимок экрана 2024-11-29 в 11 31 05" src="https://github.com/user-attachments/assets/a0ace3d2-9f5f-4837-a77f-9983137a1b68">
+
 
 ### Drag-and-Drop
 [Place a screenshot here showing selected squares being dragged to a new position with the drag operation in progress.]
